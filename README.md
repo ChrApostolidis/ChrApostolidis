@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Welcome to my GitHub! 👋<br>Hi, I'm Chris, a computer science student with a passion for web development. Currently, I'm diving deep into React and building up my skills to create modern, interactive web applications.<br><br>Feel free to explore my repositories, and follow along as I continue to learn and grow in the world of development!
 
 
