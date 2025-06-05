@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 👋<br>
 
 ## 🧑‍💻About Me:
-Hi, I'm Chris, a computer science student with a passion for web development. Currently, I'm diving deep into React and building up my skills to create modern, interactive web applications.<br><br>Feel free to contact me at: xrsapostolidis@gmail.com
+Hi, I'm Chris, a computer science student with a passion for web development. I'm currently working on full-stack applications using React and Node.js, building up my skills to create modern, interactive web experiences from front to back.<br><br>Feel free to contact me at: xrsapostolidis@gmail.com
 
 
 ## 🌐 Socials:
