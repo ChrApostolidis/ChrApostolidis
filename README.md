@@ -28,8 +28,6 @@ Hi, I'm Chris, a computer science student with a passion for web development. I'
 <img align="left" alt="github logo" width="32px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github"/>
 <br />
 
-#
-
 ## 🧰 Experience With:
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
