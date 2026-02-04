@@ -4,7 +4,9 @@
 Hi, I'm Chris, a computer science student with a passion for web development. I'm currently working on full-stack applications using React and Node.js, building up my skills to create modern, interactive web experiences from front to back.<br><br>Feel free to contact me at: xrsapostolidis@gmail.com
 
 ## 💼 Personal Portfolio
-👉 **[Visit My Portfolio](portfolio-beta-three-lfiq1itaws.vercel.app)**  
+<a href="https://portfolio-beta-three-lfiq1itaws.vercel.app" target="_blank" rel="noopener noreferrer">
+  Visit My Portfolio
+</a>
 
 
 ## 🌐 Socials:
