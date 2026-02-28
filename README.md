@@ -10,7 +10,7 @@ Hi, I'm Chris, a computer science student with a passion for web development. I'
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xristos-apostolidis-5aa0912ab/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christos-apostolidis/) 
 
 ## 💻 Main Stack:
 
