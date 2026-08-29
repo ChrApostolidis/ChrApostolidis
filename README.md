@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 👋<br>
 
 ## 🧑‍💻About Me:
-Hi, I'm Chris, a computer science student with a passion for web development. I'm currently working on full-stack applications using React and Node.js, building up my skills to create modern, interactive web experiences from front to back.<br><br>Feel free to contact me at: xrsapostolidis@gmail.com
+Hi, I'm Chris, a Full Stack Developer currently interning at Ilo Share Your, where I build with React, Next.js, and Laravel.<br><br>Feel free to contact me at: xrsapostolidis@gmail.com
 
 ## 💼 Personal Portfolio
 <a href="https://portfolio-beta-three-lfiq1itaws.vercel.app" target="_blank" rel="noopener noreferrer">
