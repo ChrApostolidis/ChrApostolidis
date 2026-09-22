@@ -4,7 +4,7 @@
 Hi, I'm Chris, a Full Stack Developer currently interning at Ilo Share Your, where I build with React, Next.js, and Laravel.<br><br>Feel free to contact me at: xrsapostolidis@gmail.com
 
 ## 💼 Personal Portfolio
-<a href="https://portfolio-beta-three-lfiq1itaws.vercel.app" target="_blank" rel="noopener noreferrer">
+<a href="https://christosapostolidis.com" target="_blank" rel="noopener noreferrer">
   Visit My Portfolio
 </a>
 
