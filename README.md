@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 👋<br>
 
 ## 🧑‍💻About Me:
-Hi, I'm Chris, a Full Stack Developer currently interning at Ilo Share Your, where I build with React, Next.js, and Laravel.<br><br>Feel free to contact me at: xrsapostolidis@gmail.com
+Hi, I'm Chris, I started coding at 18 with one goal, not just to learn how to code, but to turn my ideas into real applications people could use. That's still how I work. I'm a full-stack engineer in Thessaloniki, working mainly with React, Next.js, Node.js and Laravel..<br><br>Feel free to contact me at: xrsapostolidis@gmail.com
 
 ## 💼 Personal Portfolio
 <a href="https://christosapostolidis.com" target="_blank" rel="noopener noreferrer">
