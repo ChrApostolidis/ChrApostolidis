@@ -7,7 +7,7 @@ Hi, I'm Chris, I started coding at 18 with one goal, not just to learn how to co
 <br>
 <br>
 <p align="center">
-<a href="mailto:xrsapostolidis@gmail.com"><img src="assets/btn-email.svg" alt="Email" /></a>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="assets/btn-linkedin.svg" alt="LinkedIn" /></a>&emsp;&emsp;&emsp;<a href="https://YOUR-PORTFOLIO-URL"><img src="assets/btn-portfolio.svg" alt="Portfolio" /></a>
+<a href="mailto:xrsapostolidis@gmail.com"><img src="assets/btn-email.svg" alt="Email" /></a>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/christos-apostolidis/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" /></a>&emsp;&emsp;&emsp;<a href="https://christosapostolidis.com/"><img src="assets/btn-portfolio.svg" alt="Portfolio" /></a>
 </p>
 <br>
 
