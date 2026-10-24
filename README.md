@@ -18,4 +18,4 @@ Hi, I'm Chris, I started coding at 18 with one goal, not just to learn how to co
 
 ## Experience With:
 
-<img src="https://skillicons.dev/icons?i=py,java,spring,laravel,mysql,docker,aws" alt="Experience with" />
+<img src="https://skillicons.dev/icons?i=angular,nestjs,laravel,py,java,spring,mysql,docker,aws" alt="Experience with" />
